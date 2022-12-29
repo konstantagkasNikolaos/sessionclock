@@ -1,0 +1,77 @@
+body {
+  background-color: wheat;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  border: solid black 1px;
+  width: 480px;
+  margin: 100px auto;
+  height: 448px;
+  background-color: whitesmoke;
+  box-shadow: 2px 2px 10px grey;
+}
+
+.title {
+  margin: 20px auto;
+  font-size: 50px;
+}
+
+.lengths {
+  margin: 20px auto;
+}
+
+.break {
+  float: left;
+  margin-left: 50px;
+  font-size: 25px;
+  padding: 10px;
+}
+
+.session {
+  font-size: 25px;
+  padding: 10px;
+}
+
+.length {
+  padding: 5px;
+}
+
+.display {
+  border: solid black 1px;
+  background-color: black;
+  color: white;
+}
+
+.title-display {
+  margin: 20px auto;
+  font-size: 25px;
+}
+
+.display-buttons {
+  margin: 10px 2px;
+  background-color: aliceblue;
+  border-color: white;
+  box-shadow: 2px 2px grey;
+}
+
+.display-buttons:hover{
+  cursor: pointer;
+}
+
+.value-change-button{
+  cursor: pointer;
+}
+
+.timer {
+  font-size: 45px;
+}
+
+.value-change-button {
+  background-color: black;
+  color: whitesmoke;
+  box-shadow: 2px 2px grey;
+}
